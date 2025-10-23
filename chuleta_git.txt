@@ -1,47 +1,47 @@
-Chuleta Git GitHub
+Chuleta $ git $ gitHub
 
-git init
+$ git init
 
-git config --global user.name "JoseM"
-git config --global user.email josemamercado@gmail.com
+$ git config --global user.name "JoseM"
+$ git config --global user.email josemamercado@gmail.com
 
-git status
+$ git status
 
-git add 
+$ git add 
 
-git add .
+$ git add .gi
 
-git commit -m 
+$ git commit -m 
 
-git log
+$ git log
 
-git checkout 
+$ git checkout 
 
-git reset
+$ git reset
 
-git log --graph
+$ git log --graph
 
-git log --graph --pretty=oneline 
+$ git log --graph --pretty=oneline 
 
-git log --graph --decorate --all --oneline
+$ git log --graph --decorate --all --oneline
 
-git diff
+$ git diff
 
-git reset --hard
+$ git reset --hard
 
-git reflog
+$ git reflog
 
-git branch nombre de la rama
+$ git branch nombre de la rama
 
-git branch - d nombre de la rama
+$ git branch - d nombre de la rama
 
-git switch nombre de la rama
+$ git switch nombre de la rama
 
-git stash
+$ git stash
 
-git stash list
+$ git stash list
 
-git stash pop
+$ git stash pop
 
-git stash drop
+$ git stash drop
 
