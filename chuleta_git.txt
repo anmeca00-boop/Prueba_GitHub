@@ -1,4 +1,4 @@
-Chuleta $ git $ gitHub
+Chuleta git gitHub
 
 $ git init
 
